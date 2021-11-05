@@ -1,0 +1,105 @@
+{
+  "books": [
+    {
+      "title": "test book",
+      "autor": "Me",
+      "genges": "JS",
+      "rating": "10",
+      "id": 1
+    },
+    {
+      "title": "test book",
+      "autor": "Me",
+      "genges": "JS",
+      "rating": 10,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "test ffffff book",
+      "autor": "Mfffe",
+      "genges": "JS",
+      "rating": 0
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "title": "testebel book",
+      "autor": "MeTo",
+      "genges": [
+        "pms"
+      ],
+      "rating": 0,
+      "id": 18
+    },
+    {
+      "title": "test book",
+      "autor": "Me",
+      "genges": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 19
+    },
+    {
+      "title": "test book 2",
+      "autor": "Me",
+      "genges": [
+        "JS",
+        "TypeScript"
+      ],
+      "rating": 9.6,
+      "id": 20
+    },
+    {
+      "title": "test book",
+      "autor": "Me",
+      "genges": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 21
+    },
+    {
+      "title": "test book 2",
+      "autor": "Me",
+      "genges": [
+        "JS",
+        "TypeScript"
+      ],
+      "rating": 9.6,
+      "id": 22
+    }
+  ]
+}
